@@ -1,0 +1,3 @@
+<?php
+$lines = file("file_no_exists");
+// Warning: file(file_no_exists): Failed to open stream: No such file or directory in ...

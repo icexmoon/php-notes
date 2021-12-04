@@ -1,0 +1,3 @@
+<?php
+echo MY_CONST.PHP_EOL;
+// Fatal error: Uncaught Error: Undefined constant "MY_CONST" in ...
